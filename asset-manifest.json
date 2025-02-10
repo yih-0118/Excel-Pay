@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Excel-Pay/static/css/main.7df0c082.css",
-    "main.js": "/Excel-Pay/static/js/main.a85ae17a.js",
+    "main.js": "/Excel-Pay/static/js/main.ff71a691.js",
     "static/js/745.528cbf8a.chunk.js": "/Excel-Pay/static/js/745.528cbf8a.chunk.js",
     "index.html": "/Excel-Pay/index.html",
     "main.7df0c082.css.map": "/Excel-Pay/static/css/main.7df0c082.css.map",
-    "main.a85ae17a.js.map": "/Excel-Pay/static/js/main.a85ae17a.js.map",
+    "main.ff71a691.js.map": "/Excel-Pay/static/js/main.ff71a691.js.map",
     "745.528cbf8a.chunk.js.map": "/Excel-Pay/static/js/745.528cbf8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7df0c082.css",
-    "static/js/main.a85ae17a.js"
+    "static/js/main.ff71a691.js"
   ]
 }
